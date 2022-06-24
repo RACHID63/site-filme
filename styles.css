@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+body {
+
+    
+    margin: 0;
+    font-family:'poppins',sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+
+    font: size 40px; ;
+    color: blue;
+}
+
+.btn1 {
+
+margin-top: 100px;
+
+}
+
+h4 {
+
+color: black;
+width: 100px;
+
+}
+
+.btn {
+
+background-color: rgb(16, 150, 150);
+color: aliceblue;
+border-radius: 3px;
+padding: 10px;
+border-radius: 10px;
+text-decoration: none;
+box-shadow: 2px 5px 5px crimson;
+
+
+
+
+
+}
